@@ -1,94 +1,88 @@
-<!-- HEADER -->
+# Hi 👋, I'm Madhan ❤️
 
-<h1 align="center">Hi 👋, I'm Madhan ❤️</h1>
-<h3 align="center">QA Engineer | Automation Tester | Java Enthusiast</h3>
-
-<p align="center">
-  <a href="https://github.com/Madhan369">
-    <img src="https://komarev.com/ghpvc/?username=Madhan369&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
+### QA Engineer | Automation Tester | Java Enthusiast
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 BCA Graduate
 * 💼 Working as a QA Engineer
-* 🧪 Passionate about Automation Testing
-* 💡 Exploring Selenium, Appium & REST Assured
-* ⚡ Strong interest in Java Development
+* 🧪 Strong in Manual Testing & Automation Basics
+* 💡 Passionate about Selenium, Appium & REST Assured
+* ⚡ Interested in Java Development
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20Assured-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+**Languages:**
+Core Java • SQL
+
+**Web Technologies:**
+HTML • CSS
+
+**Testing Skills:**
+Manual Testing • Test Case Design • Bug Reporting
+
+**Tools & Frameworks:**
+Git • GitHub • Selenium • TestNG • Cucumber • Appium • REST Assured
 
 ---
 
 ## 📂 Featured Projects
 
-🔹 **Employee Management System**
-✔ Java + OOP concepts
-✔ CRUD operations using ArrayList
+### 🔹 Employee Management System
 
-🔹 **Travel Itinerary Planner**
-✔ Smart travel plan generator
-✔ Budget + Weather + Map integration
+* Developed using Java & OOP concepts
+* Implemented CRUD operations using ArrayList
+* Focused on clean and simple logic
 
-🔹 **Automated Email Reporting System**
-✔ Jakarta Mail API
-✔ Sends reports with attachments
+### 🔹 Travel Itinerary Planner
 
----
+* Generates travel plans based on user preferences
+* Includes budget estimation and basic planning features
 
-## 📊 GitHub Analytics
+### 🔹 Automated Email Reporting System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhan369&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhan369&layout=compact&theme=tokyonight" />
-</p>
+* Built using Jakarta Mail API
+* Sends automated email reports with attachments
+* Useful for QA automation workflows
 
 ---
 
-## 🔥 Contribution Streak
+## 💼 Professional Highlights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Madhan369&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhan369&theme=tokyonight" />
-</p>
+* ✔ Experience in real-time testing scenarios
+* ✔ Strong understanding of SDLC & STLC
+* ✔ Ability to identify edge cases and requirement gaps
+* ✔ Focus on improving software quality
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Overview
 
-<p>
-  <a href="mailto:madhanmahalingam2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madhan-mahalingam-4214ab299/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+* 📦 Public Repositories: Actively building projects
+* 🔍 Focus Areas: QA Automation & Java Development
+* 🚀 Goal: Become a skilled Automation Test Engineer
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [madhanmahalingam2004@gmail.com](mailto:madhanmahalingam2004@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/madhan-mahalingam-4214ab299/
 
 ---
 
 ## ✨ Fun Fact
 
-💙 I love finding bugs and turning them into better software 🐞❤️
+I enjoy finding bugs 🐞 and turning them into better software ❤️
+
+---
+
+## 🧭 Current Focus
+
+* Learning advanced Selenium & API Testing
+* Improving Java coding skills
+* Building real-world automation projects
